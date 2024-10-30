@@ -9,6 +9,14 @@
           i.fas.fa-info
       h1 Introducción
     
+    p.mb-4 El presente componente, capacita a los aprendices en el uso adecuado del teclado y el #[em mouse], promoviendo posturas ergonómicas que previenen enfermedades ocupacionales. A través de técnicas de digitación y ejercicios de pausas activas, el programa busca optimizar la velocidad y precisión en la digitación, mejorando así el rendimiento y bienestar laboral.
+
+    .row
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/5YbJZ6icR3Q?si=D5QYMDzddEEJmkLH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video. 
+
+
 </template>
 
 <script>
