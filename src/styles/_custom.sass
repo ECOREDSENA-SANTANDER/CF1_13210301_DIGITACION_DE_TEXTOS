@@ -35,17 +35,22 @@
     background-position: center
     background-repeat: no-repeat
 
+
 .banner-principal .tarjeta 
   img, svg 
     display: block
     border-style: hidden
+    animation: none
   figure, picture, img, svg 
     margin: 0
     width: 70%
-
+    
 
 .banner-principal__row 
     justify-content: space-around
+  
+    
+
 .banner-interno__fondo    
   background-image: url("../assets/curso/portada/portada.png") !important
 
@@ -148,3 +153,92 @@
 
 .bg3
   background-color: #C5EEFF
+
+.bg5
+  background-image: url("../assets/curso/temas/bg5.png")!important
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center
+  width: fit-content
+
+
+.bg3
+  background-color:#7466AE
+  border-radius: 25px !important
+  .slyder-a__bullets  
+    display: none
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: #FFBE01
+    border-color: #FFBE01
+    opacity: 1
+@media (min-width: 768px) 
+    .col-md-11 
+        flex: 0 0 auto
+        width: 88.666667%
+
+
+.acordion__accion__btn--a
+  background-color: #FFDC39
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+.acordion .tarjeta--azul
+  background-color: #8EFFBF
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #FFFDEF
+
+
+.fondo1
+  background: url('../assets/curso/temas/fondo1.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+.tarjetaf
+  background-color: #fff
+  border-radius: 15px
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    width: 50px
+    height: 50px
+    background-color:#FFEB65
+    border-radius: 50%
+.slyder-a__bullets__item 
+    background-color: #FFF2C2
+    border-color: #FFF2C2
+.slyder-a__bullets__item--active 
+    background-color: #FEDA52!important
+    border-color: #FEDA52 !important
+@media (max-width: 767px) 
+    .slyder-a__bullets__item 
+        width: 11px
+        height: 11px
+        margin: 0px 0.5px
+@media (max-width: 767px)  
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 30px
+    height: 30px
+
+
+.fondo2
+  background-color: #EFFDFF
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+
+.tarjeta.color-acento-con
+  background-color:#D7CEFF
+  border-radius: 15px
+
+.img-infografica.color-acento-contenido .img-infografica__item__dot:before, .img-infografica.color-acento-contenido .img-infografica__item__dot:after, .img-infografica.color-acento-contenido .img-infografica-b__item__dot:before, .img-infografica.color-acento-contenido .img-infografica-b__item__dot:after, .img-infografica-b.color-acento-contenido .img-infografica__item__dot:before, .img-infografica-b.color-acento-contenido .img-infografica__item__dot:after, .img-infografica-b.color-acento-contenido .img-infografica-b__item__dot:before, .img-infografica-b.color-acento-contenido .img-infografica-b__item__dot:after 
+    background-color: #black
+    opacity: -1
+    width: 20px
+    height: 20px
+
+
+.fa-link:before 
+    content: url('../assets/curso/temas/enl.svg')
