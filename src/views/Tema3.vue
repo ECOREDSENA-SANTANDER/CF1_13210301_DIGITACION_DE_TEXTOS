@@ -33,7 +33,7 @@
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.text-white.ps-3.pe-3 Consecuencias a largo plazo
 
-    p.mb-4(data-aos="fade-left") Permanecer en una posición rígida durante un tiempo prolongado puede generar síntomas de fatiga, como dolores de cabeza, calambres, adormecimiento, y molestias oculares. Para mitigar estos efectos, es recomendable incorporar pausas activas que ayuden a reducir el impacto negativo de mantener la misma postura por periodos extendidos.
+    p.mb-4(data-aos="fade-left") La exposición continua a malas posturas o la permanencia en la misma posición durante largos periodos puede provocar diversas enfermedades, algunas de las cuales pueden volverse crónicas. Entre las más comunes se incluyen:
 
     .row.justify-content-center.align-items-center
       .col-lg-3.col-md-7.col-7.mb-4(data-aos="fade-left" data-aos-delay="500")

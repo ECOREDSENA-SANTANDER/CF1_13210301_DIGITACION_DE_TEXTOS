@@ -164,7 +164,7 @@
             |
             br
             br
-            p.mb-4 Algunos expertos sugieren que una postura con una leve curvatura en la espalda puede reducir la fatiga de los músculos dorsales, en este punto encontrarás unos consejos útiles:
+            p.mb-4 Algunos expertos sugieren que una postura con una leve curvatura en la espalda puede reducir la fatiga de los músculos dorsales, en este punto encontrarás unos consejos útiles.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
@@ -211,7 +211,7 @@
             .titulo-sextos.color-primario.t.mb-4
               h3.mb-2.my-1 Cuidado de los pies
         p.mb-4 Los pies deben mantenerse firmes sobre el suelo, preferiblemente con uno ligeramente más adelantado que el otro para mejorar el equilibrio. Es importante evitar colocar objetos debajo de la mesa, ya que esto limita la movilidad y afecta la comodidad de las piernas. Si no es posible alcanzar el suelo con facilidad, se recomienda utilizar un reposapiés de manera ocasional para mayor confort.
-        .bg3.p-4.mb-4
+        .bg33.p-4.mb-4
           p.mb-2 Se recomienda evitar trabajar durante periodos prolongados en el mismo lugar, con la misma posición y utilizando un solo dispositivo de entrada. Es importante variar tanto los movimientos como el uso de diferentes herramientas de digitación para prevenir la fatiga. Además, considere que las características especiales del software y hardware disponibles pueden optimizar su productividad y eficiencia, al mismo tiempo que reducen el esfuerzo y el cansancio físico.
       .col-lg-6
         .titulo-sexto.color-secundario.mb-4

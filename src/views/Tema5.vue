@@ -100,7 +100,7 @@
         img.img-a.img-t(src="@/assets/curso/temas/img43.svg",alt='La imagen representa una computadora portátil abierta, con un diseño moderno y minimalista. El teclado es de color oscuro, con teclas bien espaciadas que incluyen un bloque de funciones, alfabéticas y teclas de comando en la parte inferior. La pantalla, de gran tamaño, está inclinada hacia atrás, mostrando un diseño gráfico abstracto en tonos oscuros con detalles en colores vivos. Debajo del teclado se encuentra un amplio panel táctil que ocupa una porción significativa del área de reposo de las manos, diseñado para facilitar la navegación sin ratón adicional.')
 
     p.mb-4 Existen otros tipos de teclados, dependiendo de la marca y el tipo de computador, por ejemplo, los equipos de la marca Apple suelen tener teclados, a veces inalámbricos o conectados vía #[em USB], que incluyen caracteres específicos.
-    p.mb-4 Así mismo vale la pena señalar que debido al espacio limitado de las computadoras portátiles, el teclado está dispuesto de manera más compacta, lo que hace que algunas teclas tengan múltiples funciones. Para gestionar estas funciones adicionales, el teclado incluye una tecla especial llamada ‘Fn’, que activa las funciones secundarias indicadas en la parte inferior derecha de ciertas teclas.
+    p.mb-4 Así mismo vale la pena señalar que debido al espacio limitado de las computadoras portátiles, el teclado está dispuesto de manera más compacta, lo que hace que algunas teclas tengan múltiples funciones. Para gestionar estas funciones adicionales, el teclado incluye una tecla especial llamada #[b ‘Fn’], que activa las funciones secundarias indicadas en la parte inferior derecha de ciertas teclas.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-6
@@ -142,8 +142,6 @@
             p.mb-0 #[b F10:] expone la barra de menús en los programas en uso.
           .tarjeta.color-acento-con.p-4(x="59.8%" y="26%" numero="") 
             p.mb-0 #[b F11:] maximiza la ventana del navegador.
-          .tarjeta.color-acento-con.p-4(x="64.2%" y="26%" numero="") 
-            p.mb-0 #[b ]
           .tarjeta.color-acento-con.p-4(x="69.6%" y="26%" numero="") 
             p.mb-0 #[b Tecla #[em Print Screen] (Impr Pant):] captura una imagen de la pantalla actual (“pantallazo”), que puede pegarse posteriormente como una imagen.
           .tarjeta.color-acento-con.p-4(x="6.8%" y="50.3%" numero="") 
@@ -157,7 +155,7 @@
           .tarjeta.color-acento-con.p-4(x="84.6%" y="44.5%" numero="") 
             p.mb-0 #[b Tecla #[em Num Lock:]] cambia la función del teclado numérico entre entrada de números y funciones de desplazamiento similares a las teclas de dirección.
           .tarjeta.color-acento-con.p-4(x="8.2%" y="61.8%" numero="") 
-            p.mb-0 #[b ]
+            p.mb-0 #[b Tecla #[em Caps Lock:]] activa o desactiva la escritura en mayúsculas.
           .tarjeta.color-acento-con.p-4(x="9.5%" y="74%" numero="") 
             p.mb-0 #[b Tecla Shift:] ubicada a ambos lados del teclado, identificada por una flecha (↑). Al pulsarla, convierte las letras de minúsculas a mayúsculas y permite acceder a caracteres especiales en las teclas numéricas cuando se presiona junto a ellas (ej. Shift + 1 = ¡).
           .tarjeta.color-acento-con.p-4(x="6.8%" y="87%" numero="") 
@@ -178,18 +176,23 @@
                 .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
                   img.img-a.img-t.mbt(src="@/assets/curso/temas/img5.svg")
                 .col
-                  .row.justify-content-between.align-items-center
+                  h4.mb-3.text-white Como complemento lo invitamos a visitar los siguientes anexos: 
+                  .row.justify-content-between.align-items-center.mb-2
                     .col.mb-3.mb-sm-0
-                      h4.mb-4.text-white Como complemento lo invitamos a visitar los siguientes anexos: 
                       p.mb-2.text-white Cómo escribir más rápido en la computadora
-                      p.mb-2.text-white Cómo mejorar la velocidad de mecanografía
                     .col-lg-auto.pe-lg-4
-                      a.boton.color-acento-botones.mb-2(href="https://www.youtube.com/watch?v=RE-CeRAz8Z4" target="_blank")
-                        span.ps-2.pe-2 Enlace web
-                        i.fas.fa-link
                       .row.justify-content-between.align-items-center
                         .col-lg-auto.pe-lg-5
-                          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=RE-CeRAz8Z4" target="_blank")
+                          a.boton.color-acento-botones(href="https://comohacerpara.com/escribir-rapido-computadora-3644n.html" target="_blank")
+                            span.ps-2.pe-2 Enlace web
+                            i.fas.fa-link
+                  .row.justify-content-between.align-items-center
+                    .col.mb-3.mb-sm-0
+                      p.mb-2.text-white Cómo mejorar la velocidad de mecanografía
+                    .col-lg-auto.pe-lg-4
+                      .row.justify-content-between.align-items-center
+                        .col-lg-auto.pe-lg-5
+                          a.boton.color-acento-botones(href="https://es.wikihow.com/mejorar-la-velocidad-de-mecanograf%C3%ADa" target="_blank")
                             span.ps-2.pe-2 Enlace web
                             i.fas.fa-link
 

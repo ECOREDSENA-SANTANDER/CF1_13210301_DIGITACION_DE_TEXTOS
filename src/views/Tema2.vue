@@ -38,7 +38,7 @@
       .col-lg-4.col-md-9.col-9
         img.img-a.img-t.mb-4(src="@/assets/curso/temas/img18.png",alt='')
       .col-lg-4
-        p.mb-4 Según lo establece la Resolución 1016 de 1989, los siguientes son los subprogramas de salud ocupacional que regulan el buen desarrollo de las labores dentro de las empresas:
+        p.mb-4 Según lo establece la #[b Resolución 1016 de 1989], los siguientes son los subprogramas de salud ocupacional que regulan el buen desarrollo de las labores dentro de las empresas:
         ul.lista-ul
           li.d-flex.mb-2
             i.fas.fa-circle-check.cr

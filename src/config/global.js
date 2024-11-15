@@ -189,7 +189,7 @@ export default {
         'Afección causada por la compresión del nervio mediano en la muñeca debido a malas posturas al teclear.',
     },
     {
-      termino: 'Pauses activas',
+      termino: 'Pausas activas',
       significado:
         'Ejercicios breves que ayudan a reducir la fatiga durante largas sesiones de trabajo sedentario.',
     },
@@ -359,7 +359,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
