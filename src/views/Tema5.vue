@@ -174,7 +174,7 @@
             .col-lg-10
               .row.justify-content-around.align-items-center
                 .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
-                  img.img-a.img-t.mbt(src="@/assets/curso/temas/img5.svg")
+                  img.img-a.img-t.mbt1(src="@/assets/curso/temas/img5.svg")
                 .col
                   h4.mb-3.text-white Como complemento lo invitamos a visitar los siguientes anexos: 
                   .row.justify-content-between.align-items-center.mb-2
