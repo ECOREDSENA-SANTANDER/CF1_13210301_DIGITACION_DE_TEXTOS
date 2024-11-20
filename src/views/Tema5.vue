@@ -184,7 +184,7 @@
                       .row.justify-content-between.align-items-center
                         .col-lg-auto.pe-lg-5
                           a.boton.color-acento-botones(href="https://comohacerpara.com/escribir-rapido-computadora-3644n.html" target="_blank")
-                            span.ps-2.pe-2 Enlace web
+                            span.ps-2.pe-2 ir al sitio #[em web]
                             i.fas.fa-link
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
@@ -193,7 +193,7 @@
                       .row.justify-content-between.align-items-center
                         .col-lg-auto.pe-lg-5
                           a.boton.color-acento-botones(href="https://es.wikihow.com/mejorar-la-velocidad-de-mecanograf%C3%ADa" target="_blank")
-                            span.ps-2.pe-2 Enlace web
+                            span.ps-2.pe-2 ir al sitio #[em web]
                             i.fas.fa-link
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
@@ -202,7 +202,7 @@
     p.mb-4 Los botones del #[em mouse] cumplen diversas funciones que es importante conocer para mejorar la eficiencia en el uso del equipo. A continuación, se describen algunas de las principales tareas que realiza este dispositivo:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.col-md-7.col-7.mb-4(data-aos="fade-left" data-aos-delay="500")
+      .col-lg-3.col-md-6.col-6.mb-4(data-aos="fade-left" data-aos-delay="500")
           img(data-aos="zoom-in-left")(src="@/assets/curso/temas/img43.png")
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

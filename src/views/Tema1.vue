@@ -78,7 +78,7 @@
                       p.mb-2.text-white Para complementar esta información diríjase al siguiente anexo, llamado “recomendaciones ergonómicas”.
                     .col-lg-auto.pe-lg-5
                       a.boton.color-acento-botones(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Tecnologia/13210301/Contenido/Manuales/RE_004_01_Equipos_con_PVD.pdf" target="_blank")
-                        span.ps-2.pe-2 Descargar
+                        span.ps-2.pe-2 ir al sitio #[em web]
                         i.fas.fa-file-download
 
     separador
