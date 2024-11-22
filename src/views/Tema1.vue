@@ -75,10 +75,10 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      p.mb-2.text-white Para complementar esta información diríjase al siguiente anexo, llamado “recomendaciones ergonómicas”.
+                      p.mb-2.text-white Para complementar esta información diríjase al siguiente enlace, llamado “recomendaciones ergonómicas”.
                     .col-lg-auto.pe-lg-5
                       a.boton.color-acento-botones(href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/Tecnologia/13210301/Contenido/Manuales/RE_004_01_Equipos_con_PVD.pdf" target="_blank")
-                        span.ps-2.pe-2 ir al sitio #[em web]
+                        span.ps-2.pe-2 Ir al sitio web
                         i.fas.fa-file-download
 
     separador
@@ -212,7 +212,7 @@
               h3.mb-2.my-1 Cuidado de los pies
         p.mb-4 Los pies deben mantenerse firmes sobre el suelo, preferiblemente con uno ligeramente más adelantado que el otro para mejorar el equilibrio. Es importante evitar colocar objetos debajo de la mesa, ya que esto limita la movilidad y afecta la comodidad de las piernas. Si no es posible alcanzar el suelo con facilidad, se recomienda utilizar un reposapiés de manera ocasional para mayor confort.
         .bg33.p-4.mb-4
-          p.mb-2 Se recomienda evitar trabajar durante periodos prolongados en el mismo lugar, con la misma posición y utilizando un solo dispositivo de entrada. Es importante variar tanto los movimientos como el uso de diferentes herramientas de digitación para prevenir la fatiga. Además, considere que las características especiales del software y hardware disponibles pueden optimizar su productividad y eficiencia, al mismo tiempo que reducen el esfuerzo y el cansancio físico.
+          p.mb-2 Se recomienda evitar trabajar durante periodos prolongados en el mismo lugar, con la misma posición y utilizando un solo dispositivo de entrada. Es importante variar tanto los movimientos como el uso de diferentes herramientas de digitación para prevenir la fatiga. Además, considere que las características especiales del #[em software] y #[em hardware] disponibles pueden optimizar su productividad y eficiencia, al mismo tiempo que reducen el esfuerzo y el cansancio físico.
       .col-lg-6
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 9. 

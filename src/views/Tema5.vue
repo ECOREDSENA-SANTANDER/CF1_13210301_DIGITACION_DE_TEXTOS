@@ -184,7 +184,7 @@
                       .row.justify-content-between.align-items-center
                         .col-lg-auto.pe-lg-5
                           a.boton.color-acento-botones(href="https://comohacerpara.com/escribir-rapido-computadora-3644n.html" target="_blank")
-                            span.ps-2.pe-2 ir al sitio #[em web]
+                            span.ps-2.pe-2 Ir al sitio web
                             i.fas.fa-link
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
@@ -193,7 +193,7 @@
                       .row.justify-content-between.align-items-center
                         .col-lg-auto.pe-lg-5
                           a.boton.color-acento-botones(href="https://es.wikihow.com/mejorar-la-velocidad-de-mecanograf%C3%ADa" target="_blank")
-                            span.ps-2.pe-2 ir al sitio #[em web]
+                            span.ps-2.pe-2 Ir al sitio web
                             i.fas.fa-link
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
