@@ -16,7 +16,7 @@ export default {
       tema: 'Ergonomía y salud ocupacional en la digitación',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar los conocimientos fundamentales sobre ergonomía y salud ocupacional aplicados a la digitación eficiente.',
+        '<b> Objetivo:</b> Evaluar los conocimientos fundamentales sobre digitación eficiente y salud ocupacional.',
       barajarPreguntas: true,
       preguntas: [
         {

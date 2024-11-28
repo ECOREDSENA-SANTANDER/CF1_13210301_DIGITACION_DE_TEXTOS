@@ -13,7 +13,7 @@
       .col-lg-12
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/img15.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/img15.png')})`}", alt='Imagen decorativa.'
           )
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-5 Para cumplir con estas regulaciones, es fundamental comprender la ergonomía, definida como la ciencia que busca adaptar productos, sistemas y entornos a las características y necesidades de los usuarios, optimizando su eficiencia, seguridad y confort (Asociación Internacional de Ergonomía, 1999). La ergonomía establece los parámetros que las entidades de salud pública deben implementar para asegurar que el trabajo frente a un computador se realice de manera efectiva y sin riesgos para la salud. En este contexto, las aseguradoras de riesgos profesionales en Colombia promueven políticas que buscan mejorar las condiciones laborales.
@@ -32,11 +32,11 @@
           | Políticas de salud ocupacional
         img.img-a.img-t(src='@/assets/curso/temas/img16.svg', alt='La imagen presenta un esquema que detalla diferentes políticas de salud ocupacional en Colombia. Se listan leyes y decretos, como la Ley 9 de 1979, la Ley 100 de 1993, el Decreto 1607 de 2002, el Decreto 1477 de 2014, y resoluciones como la 1016 de 1989 y la 2013 de 1986. Cada normativa se acompaña de una breve descripción de su utilidad, que incluye temas como medidas sanitarias, seguridad social y gestión de riesgos laborales, así como la fuente de consulta, con enlaces para acceder a los textos completos de dichas normativas.')
       .col-lg-5.col-md-7.col-7
-        img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/temas/img17.png', alt='.')
+        img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/temas/img17.png', alt='Imagen decorativa.')
     
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-4.col-md-9.col-9
-        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img18.png",alt='')
+        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img18.png",alt='Imagen decorativa.')
       .col-lg-4
         p.mb-4 Según lo establece la #[b Resolución 1016 de 1989], los siguientes son los subprogramas de salud ocupacional que regulan el buen desarrollo de las labores dentro de las empresas:
         ul.lista-ul
@@ -59,11 +59,11 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-5.col-md-7.col-7
-        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img19.png",alt='')
+        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img19.png",alt='Imagen decorativa.')
       .col-lg-7
         .row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-2
-            img.img-a.img-t.mb-4.d-none.d-lg-block(src="@/assets/curso/temas/img20.svg",alt='')
+            img.img-a.img-t.mb-4.d-none.d-lg-block(src="@/assets/curso/temas/img20.svg",alt='Imagen decorativa.')
           .col-lg-10
             p.mb-4 La #[em Universitat Politècnica de Catalunya] (2011) promueve un adecuado desempeño en las labores de digitación mediante una serie de recomendaciones esenciales para prevenir enfermedades posturales. Se sugiere que estas indicaciones se implementen rigurosamente en el entorno de trabajo y se alineen con las posturas previamente mencionadas.
         .cajon.color-primario.p-4.mb-4
@@ -91,7 +91,7 @@
             i.fas.fa-circle-check.cr
             p.mb-0 Configurar el monitor con niveles de contraste adecuados, lo que ayudará a evitar dificultades visuales al leer o interpretar gráficos e imágenes.
       .col-lg-4.col-md-7.col-7
-        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img21.png",alt='')
+        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img21.png",alt='Imagen decorativa.')
       
     p.mb-4(data-aos="fade-left") La adaptación del teclado también es fundamental. A continuación, se detallan algunas recomendaciones para mantener una postura adecuada frente a este dispositivo:
 
@@ -112,7 +112,7 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-5.col-md-9.col-9.mb-4.mb-lg-0(data-aos='fade-right')
-        img(src='@/assets/curso/temas/img22.png', alt='')
+        img(src='@/assets/curso/temas/img22.png', alt='Imagen decorativa.')
       .col-lg-7(data-aos='fade-left')
         .tarjeta.bg3.p-4
           SlyderA

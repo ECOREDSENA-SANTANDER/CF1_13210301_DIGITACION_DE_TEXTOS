@@ -11,7 +11,7 @@
       .col-lg-12
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/img36.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/img36.png')})`}", alt='Imagen decorativa.'
           )
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-5 Los dedos deben posicionarse de manera que faciliten una digitación más rápida y ergonómica. Cada dedo tiene asignada una tecla específica, siguiendo la disposición estándar #[b ASDFG] para la mano izquierda y #[b ÑLKJH] para la derecha.
@@ -174,7 +174,7 @@
             .col-lg-10
               .row.justify-content-around.align-items-center
                 .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
-                  img.img-a.img-t.mbt1(src="@/assets/curso/temas/img5.svg")
+                  img.img-a.img-t.mbt1(src="@/assets/curso/temas/img5.svg", alt='Imagen decorativa.')
                 .col
                   h4.mb-3.text-white Como complemento lo invitamos a visitar los siguientes anexos: 
                   .row.justify-content-between.align-items-center.mb-2
@@ -203,7 +203,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-md-6.col-6.mb-4(data-aos="fade-left" data-aos-delay="500")
-          img(data-aos="zoom-in-left")(src="@/assets/curso/temas/img43.png")
+          img(data-aos="zoom-in-left")(src="@/assets/curso/temas/img43.png", alt='Imagen decorativa.')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="Botón izquierdo")
@@ -213,13 +213,13 @@
                 ul.lista-ul
                   li.d-flex.mb-2
                     i.fas.fa-circle-check.cr
-                    p.mb-0 #[b Clic:] Al presionar una vez, se pueden activar botones, cambiar la posición del cursor o seleccionar ventanas.
+                    p.mb-0 #[b Clic:] al presionar una vez, se pueden activar botones, cambiar la posición del cursor o seleccionar ventanas.
                   li.d-flex.mb-2
                     i.fas.fa-circle-check.cr
-                    p.mb-0 #[b Clic sostenido:] Manteniendo el botón presionado, es posible seleccionar uno o más objetos para luego moverlos o copiarlos en conjunto.
+                    p.mb-0 #[b Clic sostenido:] manteniendo el botón presionado, es posible seleccionar uno o más objetos para luego moverlos o copiarlos en conjunto.
                   li.d-flex.mb-2
                     i.fas.fa-circle-check.cr
-                    p.mb-0 #[b Doble clic:] Generalmente se utiliza para abrir accesos directos, aunque también puede seleccionar objetos o textos.
+                    p.mb-0 #[b Doble clic:] generalmente se utiliza para abrir accesos directos, aunque también puede seleccionar objetos o textos.
           .row.col-xl-11.m-auto(titulo="Botón derecho")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-12
@@ -234,7 +234,7 @@
         .titulo-sextos.color-primario.t.mb-4
           h3.mb-2.my-1 Tipos de #[em Mouse]
 
-    p.mb-4 Existen varios tipos de mouse actualmente en el mercado, cada uno diseñado para cumplir con necesidades específicas. A continuación, se mencionan algunos de los más comunes:
+    p.mb-4 Existen varios tipos de #[em mouse] actualmente en el mercado, cada uno diseñado para cumplir con necesidades específicas. A continuación, se mencionan algunos de los más comunes:
 
     .row.fondo1.align-items-center.p-3(data-aos="fade-down")
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
@@ -247,49 +247,49 @@
                 h4.mb-4 #[em Mouse] óptico
                 p.mb-4 Usa un sensor de luz #[em LED] para detectar el movimiento en casi cualquier superficie. Es el tipo de #[em mouse] más común y adecuado para tareas generales.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img46.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img46.svg")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em Mouse] láser
                 p.mb-4 Similar al #[em mouse] óptico, pero utiliza un rayo láser para una mayor precisión. Es ideal para tareas que requieren precisión, como diseño gráfico o juegos.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img47.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img47.svg")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em Mouse] inalámbrico
                 p.mb-4 Este tipo de #[em mouse] se conecta a la computadora sin cables, generalmente mediante Bluetooth o un receptor #[em USB]. Ofrece mayor movilidad y orden.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img48.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img48.svg")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em Mouse] ergonómico
                 p.mb-4 Diseñado para reducir la tensión en la mano y la muñeca, se utiliza para prevenir problemas como el síndrome del túnel carpiano. Estos pueden tener una forma diferente a los ratones tradicionales, para adaptarse mejor a la postura natural de la mano.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img49.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img49.svg")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em Mouse] para juegos #[em (gaming)]
                 p.mb-4 Está optimizado para videojuegos, con características como una alta tasa de #[em DPI] (puntos por pulgada), botones programables y retroiluminación. Son muy precisos y responden rápidamente a los movimientos.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img50.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img50.svg")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em Mouse trackball]
                 p.mb-4 En lugar de mover el #[em mouse], el usuario mueve una bola incrustada en el dispositivo con el pulgar o los dedos. Es útil en espacios reducidos o para usuarios con movilidad limitada.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img51.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img51.svg")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em Mouse] táctil o #[em touchpad]
                 p.mb-4 Similar a los #[em touchpads] de las #[em laptops], algunos #[em mouses] incluyen superficies táctiles para controlar el cursor con gestos. Suelen ser muy minimalistas y permiten realizar gestos como desplazamiento y zoom con los dedos.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img52.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img52.svg")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em Mouse] vertical
                 p.mb-4 Diseñado para que la mano adopte una postura más natural, similar a la de dar la mano, ayudando a reducir la tensión en el antebrazo y la muñeca.
               .col-lg-4.col-12.col-md-9.my-3
-                img(alt="" src="@/assets/curso/temas/img53.svg")
+                img(alt="Imagen decorativa." src="@/assets/curso/temas/img53.svg")
 
 </template>
 

@@ -69,7 +69,8 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Guía de prevencíon para evitar enfermedades',
+            titulo:
+              'Guía de prevención para evitar enfermedades posturales en el trabajo de digitación',
             hash: 't_2_2',
           },
         ],

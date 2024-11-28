@@ -11,7 +11,7 @@
       .col-lg-12
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/img1.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/img1.png')})`}", alt='Imagen decorativa.'
           )
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-5 Al escribir, es fundamental adoptar una postura corporal adecuada, especialmente si se utiliza un teclado. Hoy en día, existe una amplia variedad de teclados que incluyen desde los estándares, que se encuentran en la mayoría de los computadores personales, hasta los inalámbricos, ergonómicos e incluso virtuales.
@@ -132,7 +132,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-9.col-9
-        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img8.svg",alt='')
+        img.img-a.img-t.mb-4(src="@/assets/curso/temas/img8.svg",alt='Imagen decorativa.')
       .col-lg-8
         p.mb-4 Al interactuar con su equipo de trabajo, asegúrese de organizar el entorno y los instrumentos de manera que le permitan una postura cómoda, lo cual dependerá en gran medida del espacio disponible y de las condiciones del lugar de trabajo.
         p.mb-4 A continuación, se presentan algunas indicaciones para evitar problemas posturales:
@@ -157,7 +157,7 @@
       .col-lg-12
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/img9.png')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/img9.png')})`}", alt='Imagen decorativa.'
           )
           .bloque-texto-g__texto.p-lg-5.p-md-4.p-4
             p.mb-4 Las complicaciones posturales más comunes incluyen dolores en el cuello, hombros, y en las regiones lumbar y dorsal; para prevenir problemas de postura, es esencial desarrollar el hábito de sentarse con la espalda recta, lo que contribuye a evitar alteraciones en la columna vertebral. 
@@ -176,7 +176,7 @@
         p.mb-4 Para evitar molestias en el cuello, es crucial ajustar la posición de la cabeza en relación con la pantalla, pues la distancia, altura e inclinación deben estar configuradas de manera que la mirada no provoque tensión adicional en el cuello. Realizar ejercicios de fortalecimiento para el cuello, brazos, antebrazos y espalda también contribuye a disminuir la tensión en estas zonas.
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-12.col-md-9.col-9
-            img.img-a.img-t(src="@/assets/curso/temas/img10.png",alt='')
+            img.img-a.img-t(src="@/assets/curso/temas/img10.png",alt='Imagen decorativa.')
       .col-lg-6
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 6. 
@@ -226,11 +226,11 @@
             .col-lg-10
               .row.justify-content-around.align-items-center
                 .col-3.col-sm-2.col-lg-2.d-none.d-lg-block.ps-lg-5
-                  img.img-a.img-t.mbt(src="@/assets/curso/temas/img5.svg")
+                  img.img-a.img-t.mbt(src="@/assets/curso/temas/img5.svg", alt='Imagen decorativa.')
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      p.mb-2.text-white Para complementar esta información sobre la postura correcta visita el siguiente video:
+                      p.mb-2.text-white Para complementar esta información sobre la postura correcta, visita el siguiente video:
                     .col-lg-auto.pe-lg-5
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=RE-CeRAz8Z4" target="_blank")
                         span.ps-2.pe-2 Ir al sitio
